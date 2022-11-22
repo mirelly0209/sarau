@@ -15,6 +15,9 @@ h1{font-size: 50px;color: blue;}
 <h4>Data: 21/11/2022
 
 
+
+
+
 <p>  Bom,eu fui integrante do grupo sobre dadaísmo e a minha parte foi colar imagens que o público escolheu. Assim,fizemos, um quadro incrível com a participação de todos.</p>
 
 <h4>Como fizemos?</h4>
@@ -25,11 +28,6 @@ h1{font-size: 50px;color: blue;}
 
 <p> Dadaísmo é uma vanguarda artística moderna que surgiu com o objetivo de romper com os estilos clássicos e tradicionais, agindo de modo “anárquico” e “irracional”. </p>
 
-
-
-
-<img 
- src="https://g3i5r4x7.rocketcdn.me/wp-content/uploads/2020/03/dadaismo-4.jpg.webp"
 
 
 </html>
